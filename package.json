@@ -2,7 +2,7 @@
   "name": "learn-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://yousefmaziz.github.io/project",
+  "homepage": "https://yousefmaziz.github.io/learn",
   "type": "module",
   "scripts": {
     "dev": "vite",
