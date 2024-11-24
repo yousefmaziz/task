@@ -2,9 +2,12 @@
   "name": "learn-react",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://yousefmaziz.github.io/project",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
